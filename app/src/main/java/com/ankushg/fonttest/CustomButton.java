@@ -7,7 +7,7 @@ import android.support.v7.widget.AppCompatButton;
 import android.util.AttributeSet;
 
 /**
- * Created by ankushg on 12/12/17.
+ * Simple subclass of AppCompatButton which sets its Typeface via a Font Resource when constructed
  */
 
 public class CustomButton extends AppCompatButton {

@@ -9,14 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainCustomViewActivity">
+        <activity android:name=".CustomViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainFontReferenceActivity"></activity>
+        <activity android:name=".FontReferenceActivity"></activity>
     </application>
 
 </manifest>
